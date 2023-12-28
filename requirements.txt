@@ -1,0 +1,6 @@
+numpy==1.19.2
+numpy==1.21.6
+opencv_python==4.4.0.44
+opencv_python==4.8.1.78
+pytesseract==0.3.6
+pytesseract==0.3.10
